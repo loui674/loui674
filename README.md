@@ -1,7 +1,11 @@
 
 ## Hello, Traveler!
 
-<div class="tenor-gif-embed" data-postid="17009422" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/josuke-jojos-bizarre-adventures-jjba-thumbs-up-smile-gif-17009422">Josuke Jojos Bizarre Adventures GIF</a>from <a href="https://tenor.com/search/josuke-gifs">Josuke GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 I'm loui, welcome to my cave! (or profile)
 
