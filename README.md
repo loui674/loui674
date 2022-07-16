@@ -3,7 +3,7 @@
 
 - I'm loui, welcome to my cave! <em>(or profile)</em>
 
-- Also currently studying Information Systems, at Pontifícia Universidade Católica (PUC). Also learning to program in C#, HTML and CSS
+- Also currently studying Information Systems, at Pontifícia Universidade Católica (PUC). Also learning how to program in C#, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/loui674">
