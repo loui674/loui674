@@ -3,7 +3,11 @@
 
 - I'm loui, welcome to my cave! <em>(or profile)</em>
 
+
+
 - Also currently studying Information Systems, at Pontifícia Universidade Católica (PUC). Also learning how to program in C#, HTML and CSS
+
+##
 
 <div align="center">
   <a href="https://github.com/loui674">
@@ -14,15 +18,12 @@
 
 ### Tools and Technologies // I'm Learning !!
 
+    <div style= "display: inline_block"><br>
+    
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <div>
 
-<div>
-<a href="https://github.com/loui674">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
           
 ## Contact me !
 
