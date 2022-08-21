@@ -8,7 +8,7 @@
 - Also currently studying Information Systems, at Pontifícia Universidade Católica (PUC). Also learning how to program in C#, HTML and CSS
 
 
--I really enjoy videogames and RPG, my favorite game is The Elder Scrolls V- Skyrim, i like to work out and strawberry juice looks very nice in a rainy afternoon 
+- I really enjoy videogames and RPG, my favorite game is The Elder Scrolls V- Skyrim, i like to work out and strawberry juice looks very nice in a rainy afternoon 
 
 ##
 
